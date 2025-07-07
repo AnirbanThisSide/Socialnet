@@ -1,6 +1,6 @@
 # 🌐 SocialNet
 
-A Django-based social networking platform that allows users to register, log in, and share posts in a minimalistic social feed. Built from the ground up with a focus on clean architecture and simplicity.
+A Django-based social networking app inspired by Twitter now X
 
 ---
 
